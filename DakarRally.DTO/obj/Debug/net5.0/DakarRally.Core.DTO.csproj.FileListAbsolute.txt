@@ -1,0 +1,15 @@
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\bin\Debug\net5.0\DakarRally.Core.DTO.deps.json
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\bin\Debug\net5.0\DakarRally.Core.DTO.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\bin\Debug\net5.0\ref\DakarRally.Core.DTO.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\bin\Debug\net5.0\DakarRally.Core.DTO.pdb
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\bin\Debug\net5.0\DakarRally.Core.Entities.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\bin\Debug\net5.0\DakarRally.Core.Entities.pdb
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\DakarRally.Core.DTO.csprojAssemblyReference.cache
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\DakarRally.Core.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\DakarRally.Core.DTO.AssemblyInfoInputs.cache
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\DakarRally.Core.DTO.AssemblyInfo.cs
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\DakarRally.Core.DTO.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\DakarRally.Core.DTO.csproj.CopyComplete
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\DakarRally.Core.DTO.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\ref\DakarRally.Core.DTO.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DTO\obj\Debug\net5.0\DakarRally.Core.DTO.pdb

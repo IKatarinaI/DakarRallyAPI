@@ -1,0 +1,15 @@
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.DBAccess.deps.json
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.DBAccess.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\bin\Debug\net5.0\ref\DakarRally.DBAccess.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.DBAccess.pdb
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.Models.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.Models.pdb
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.DBAccess.csprojAssemblyReference.cache
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.DBAccess.AssemblyInfoInputs.cache
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.DBAccess.AssemblyInfo.cs
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.DBAccess.csproj.CopyComplete
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.DBAccess.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\ref\DakarRally.DBAccess.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.DBAccess.pdb

@@ -1,0 +1,15 @@
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\bin\Debug\net5.0\DakarRally.DTO.deps.json
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\bin\Debug\net5.0\DakarRally.DTO.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\bin\Debug\net5.0\ref\DakarRally.DTO.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\bin\Debug\net5.0\DakarRally.DTO.pdb
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\bin\Debug\net5.0\DakarRally.Models.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\bin\Debug\net5.0\DakarRally.Models.pdb
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\DakarRally.DTO.csprojAssemblyReference.cache
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\DakarRally.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\DakarRally.DTO.AssemblyInfoInputs.cache
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\DakarRally.DTO.AssemblyInfo.cs
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\DakarRally.DTO.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\DakarRally.DTO.csproj.CopyComplete
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\DakarRally.DTO.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\ref\DakarRally.DTO.dll
+C:\Users\katar\Desktop\DakarRally\DakarRally.DTO\obj\Debug\net5.0\DakarRally.DTO.pdb

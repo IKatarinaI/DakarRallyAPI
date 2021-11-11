@@ -1,0 +1,12 @@
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\bin\Debug\net5.0\DakarRally.Core.Entities.deps.json
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\bin\Debug\net5.0\DakarRally.Core.Entities.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\bin\Debug\net5.0\ref\DakarRally.Core.Entities.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\bin\Debug\net5.0\DakarRally.Core.Entities.pdb
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\obj\Debug\net5.0\DakarRally.Core.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\obj\Debug\net5.0\DakarRally.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\obj\Debug\net5.0\DakarRally.Core.Entities.AssemblyInfo.cs
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\obj\Debug\net5.0\DakarRally.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\obj\Debug\net5.0\DakarRally.Core.Entities.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\obj\Debug\net5.0\ref\DakarRally.Core.Entities.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\obj\Debug\net5.0\DakarRally.Core.Entities.pdb
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.Models\obj\Debug\net5.0\DakarRally.Core.Entities.csprojAssemblyReference.cache

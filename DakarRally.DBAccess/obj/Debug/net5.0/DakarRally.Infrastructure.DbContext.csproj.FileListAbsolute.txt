@@ -1,0 +1,15 @@
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.Infrastructure.DbContext.deps.json
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.Infrastructure.DbContext.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\bin\Debug\net5.0\ref\DakarRally.Infrastructure.DbContext.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.Infrastructure.DbContext.pdb
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.Core.Entities.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\bin\Debug\net5.0\DakarRally.Core.Entities.pdb
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.Infrastructure.DbContext.csprojAssemblyReference.cache
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.Infrastructure.DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.Infrastructure.DbContext.AssemblyInfoInputs.cache
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.Infrastructure.DbContext.AssemblyInfo.cs
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.Infrastructure.DbContext.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.Infrastructure.DbContext.csproj.CopyComplete
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.Infrastructure.DbContext.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\ref\DakarRally.Infrastructure.DbContext.dll
+C:\Users\katar\Desktop\DakarRally\dotnet-katarinai\dotnet-katarinai\DakarRally.DBAccess\obj\Debug\net5.0\DakarRally.Infrastructure.DbContext.pdb

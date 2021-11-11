@@ -1,0 +1,436 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally\\DakarRally.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Core.Services\\DakarRally.Core.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Core.Services\\DakarRally.Core.Services.csproj",
+        "projectName": "DakarRally.Core.Services",
+        "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Core.Services\\DakarRally.Core.Services.csproj",
+        "packagesPath": "C:\\Users\\katar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Core.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\katar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Infrastucture.Repositories\\DakarRally.Infrastructure.Repositories.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Infrastucture.Repositories\\DakarRally.Infrastructure.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DBAccess\\DakarRally.Infrastructure.DbContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DBAccess\\DakarRally.Infrastructure.DbContext.csproj",
+        "projectName": "DakarRally.Infrastructure.DbContext",
+        "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DBAccess\\DakarRally.Infrastructure.DbContext.csproj",
+        "packagesPath": "C:\\Users\\katar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DBAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\katar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DTO\\DakarRally.Core.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DTO\\DakarRally.Core.DTO.csproj",
+        "projectName": "DakarRally.Core.DTO",
+        "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DTO\\DakarRally.Core.DTO.csproj",
+        "packagesPath": "C:\\Users\\katar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\katar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Infrastucture.Repositories\\DakarRally.Infrastructure.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Infrastucture.Repositories\\DakarRally.Infrastructure.Repositories.csproj",
+        "projectName": "DakarRally.Infrastructure.Repositories",
+        "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Infrastucture.Repositories\\DakarRally.Infrastructure.Repositories.csproj",
+        "packagesPath": "C:\\Users\\katar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Infrastucture.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\katar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DBAccess\\DakarRally.Infrastructure.DbContext.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DBAccess\\DakarRally.Infrastructure.DbContext.csproj"
+              },
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DTO\\DakarRally.Core.DTO.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DTO\\DakarRally.Core.DTO.csproj"
+              },
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj",
+        "projectName": "DakarRally.Core.Entities",
+        "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\DakarRally.Core.Entities.csproj",
+        "packagesPath": "C:\\Users\\katar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\katar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally\\DakarRally.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally\\DakarRally.API.csproj",
+        "projectName": "DakarRally.API",
+        "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally\\DakarRally.API.csproj",
+        "packagesPath": "C:\\Users\\katar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\katar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Core.Services\\DakarRally.Core.Services.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Core.Services\\DakarRally.Core.Services.csproj"
+              },
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DBAccess\\DakarRally.Infrastructure.DbContext.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DBAccess\\DakarRally.Infrastructure.DbContext.csproj"
+              },
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DTO\\DakarRally.Core.DTO.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.DTO\\DakarRally.Core.DTO.csproj"
+              },
+              "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Infrastucture.Repositories\\DakarRally.Infrastructure.Repositories.csproj": {
+                "projectPath": "C:\\Users\\katar\\Desktop\\DakarRally\\dotnet-katarinai\\dotnet-katarinai\\DakarRally.Infrastucture.Repositories\\DakarRally.Infrastructure.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
