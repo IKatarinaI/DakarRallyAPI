@@ -1,4 +1,4 @@
-# HTEC Technical Interview Test Assignment - Dakar Rally
+# Dakar Rally API
 
 ## About the application
 Dakar Rally application represents real-time simulation of a race. When DakarRally is started, DakarRally.API.exe and swagger are started. DakarRally.API.exe is a worker service which handles simulation of a race and swagger is used for testing endpoints.
